@@ -1,4 +1,4 @@
-let myname="김종민"
+let myname="최은혁"
 let myproject="회귀분석을 위한 포트폴리오"
 
 $(()=>{
